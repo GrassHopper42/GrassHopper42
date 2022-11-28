@@ -6,7 +6,7 @@
 
 ---
 
-### Skills
+## Skills
 #### Languages  
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/></a>
@@ -28,7 +28,12 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
 
+---
 
+## Contact
+[Resume](https://www.notion.so/grasshopper42/fab701867e334fc4b16cfa5e647b52d9)  
+[Blog](https://grasshopper42.vercel.app)  
+[Email](mailto:solite4686@gmail.com)
 <!--
 **GrassHopper42/GrassHopper42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
