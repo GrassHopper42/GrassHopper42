@@ -32,7 +32,7 @@
 ---
 
 ## Contact
-[Resume](https://www.notion.so/grasshopper42/fab701867e334fc4b16cfa5e647b52d9)  
+[Resume](https://grasshopper42.notion.site/fab701867e334fc4b16cfa5e647b52d9)  
 [Blog](https://grasshopper42.vercel.app)  
 [Email](mailto:solite4686@gmail.com)
 <!--
