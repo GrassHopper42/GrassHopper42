@@ -2,6 +2,7 @@
 
 배움을 즐기고, 나눔을 사랑하며, 기술로 세상을 혁신하는 꿈을 꿉니다.
 
+[![hwayu's 42 stats](https://badge42.vercel.app/api/v2/clhet5i6t002108l99fte6168/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrassHopper42&show_icons=true&theme=radical)
 
 ---
