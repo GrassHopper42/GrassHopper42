@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=Svelte&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Phoenix-FF3E00?style=flat-square&logo=Phoenix Framework&logoColor=white"/></a>  
+  <img src="https://img.shields.io/badge/Phoenix-FD4F00?style=flat-square&logo=Phoenix Framework&logoColor=white"/></a>  
 #### Server  
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/NestJs-E0234E?style=flat-square&logo=NestJs&logoColor=white"/></a>
